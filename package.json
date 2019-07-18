@@ -1,0 +1,23 @@
+{
+  "name": "lemon",
+  "version": "1.0.0",
+  "description": "Hello Lemon",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "vue-cli-service test:unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lemon-SG/VuePressDoc.git"
+  },
+  "keywords": [
+    "a12345679"
+  ],
+  "author": "Lemon",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.0.2"
+  }
+}
