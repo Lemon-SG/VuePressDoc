@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
+    "deploy": "bash deploy.sh",
     "test": "vue-cli-service test:unit"
   },
   "repository": {
